@@ -1,0 +1,121 @@
+.navbar-logo {
+  max-height: 2.5rem; /* desktop default */
+  width: auto; /* preserve aspect ratio */
+  object-fit: contain;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: white !important;
+  background-color: #cb2828;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #ab0909 !important;
+}
+.nav-link {
+  color: #242424 !important;
+}
+.btn {
+  font-size: 1rem;
+}
+.bg-danger {
+  background-color: #cb2828 !important;
+}
+.btn-danger {
+  background-color: #cb2828 !important;
+  border: #cb2828 solid 2px;
+}
+.btn-danger:hover {
+  background-color: #a92c2c !important;
+  border: #a92c2c solid 2px;
+}
+.btn-outline-danger {
+  border: #a92c2c solid 2px;
+  color: #a92c2c;
+}
+.btn-outline-danger:hover {
+  border: #cb2828 solid 2px;
+  background-color: #cb2828;
+}
+.core-circle {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background-color: #dc3545;
+  /* Bootstrap red, change to brand color */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  padding: 15px;
+}
+
+.core-circle:hover {
+  width: 165px;
+  height: 165px;
+  background-color: #f5cc26;
+  /* darker hover */
+  transform: translateY(-5px);
+}
+.pop-up {
+  transition: all 0.3s ease;
+}
+.pop-up:hover {
+  background-color: #f5cc26;
+  border-color: #eacc22;
+  transform: translateY(-5px);
+}
+
+.wwo {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.wwo:hover {
+  box-shadow: 0 0 25px rgba(255, 193, 7, 0.7) !important; /* Bootstrap yellow (#ffc107) */
+  transform: translateY(-5px); /* optional lift-up effect */
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  .navbar-logo {
+    max-height: 35px;
+    margin-right: 0;
+    padding-right: 0;
+  }
+}
+
+.logo-slider {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background: #ffffff00; /* optional */
+  padding: 20px 0;
+}
+
+.logo-track {
+  display: flex;
+  width: calc(250px * 16); /* 16 logos total (8 original + 8 duplicate) */
+  animation: scroll 30s linear infinite;
+}
+
+.collage {
+  height: 80px;
+  margin: 0 35px;
+  border-radius: 15px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  75% {
+    transform: translateX(-50%);
+  } /* move half (because we doubled logos) */
+}
+
+.img-fixed {
+  width: 100%; /* ikut lebar parent */
+  height: 150px; /* semua gambar tinggi sama */
+  object-fit: cover; /* crop ikut ratio, nampak kemas */
+  border-radius: 8px; /* optional kalau nak rounded sikit */
+}

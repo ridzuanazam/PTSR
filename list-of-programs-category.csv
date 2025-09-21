@@ -1,0 +1,42 @@
+PROGRAM,TAHAP,CATEGORY,DESCRIPTION,IMAGE
+Pengurusan Perladangan,(SKM/DKM),agri,"Melatih pelajar dalam mengurus operasi ladang termasuk tanaman, pekerja, dan hasil pertanian.",plantatio-management-workers.jpg
+Geomatik & Ukur Tanah,(SKM),agri,"Memberi kemahiran dalam pemetaan, pengukuran tanah, dan analisis geospatial.",land-surveyor-with-equipment.jpg
+Juruteknik Geospatial,(SKM),agri,"Fokus pada teknologi GIS, data geospatial, dan pemprosesan maklumat peta.",geospatial-technician-GIS.jpg
+Pentadbiran Pejabat,(SKM/DKM),biz,"Melatih pelajar dalam pengurusan fail, dokumen, dan operasi pejabat moden.",office-administration-teamwork.avif
+Pengurusan Pentadbiran & Setiausaha,(SKM/DKM),biz,"Memberi kemahiran organisasi, protokol pejabat, serta kemahiran setiausaha profesional.",corporate-secretary-office.webp
+Setiausaha Korporat Eksekutif,(SKM),biz,"Fokus pada kemahiran komunikasi, pengurusan mesyuarat, dan sokongan eksekutif.",executive-secretary-business.avif
+Perakaunan,(DKM),biz,"Meliputi asas perakaunan, rekod kewangan, dan penyediaan laporan akaun.",accounting-finance-office.jpg
+Business Administration,(DKM),biz,"Memberi asas pengurusan organisasi, pemasaran, sumber manusia, dan operasi perniagaan.",business-management-teamwork.jpg
+Pembuatan Pakaian Wanita (Jahitan),(SKM),creative,"Latihan dalam menjahit, menghasilkan pakaian wanita, dan rekaan fesyen asas.",fashion-design-tailoring.jpg
+Perkhidmatan Estetik,(SKM),creative,"Fokus pada rawatan kecantikan, penjagaan kulit, dan terapi wajah.",aesthetic-beauty-treatment-spa.jpg
+Kosmetologi,(DKM),creative,"Meliputi solekan, penjagaan rambut, kuku, dan keseluruhan penampilan.",cosmetology-makeup-beauty.png
+Kulinari,(SKM/DKM),culinary,"Memberi kemahiran dalam penyediaan makanan, teknik masakan, dan pengurusan dapur.",culinary-chef-cooking.jpg
+F&B,(SKM/DKM),culinary,"Latihan dalam operasi makanan & minuman, khidmat pelanggan, dan kawalan kualiti.",food-and-beverage-service.avif
+Operasi Servis Makanan & Minuman (F&B),(SKM),culinary,"Fokus pada kemahiran pelayan, servis restoran, dan pengurusan operasi.",restaurant-service-waiter.jpg
+Penyediaan dan Pembuatan Makanan,(SKM),culinary,Mengajar teknik asas hingga profesional dalam penyediaan makanan harian dan komersial.,food-preparation-kitchen.jpeg
+Pembuatan Pastri,(SKM),culinary,"Memberi kemahiran khusus dalam membuat kek, roti, dan pastri moden.",pastry-chef-bakery.jpg
+Pengasuhan & Pendidikan Awal Kanak kanak,(SKM),edu,"Fokus pada perkembangan kanak-kanak, penjagaan harian, dan aktiviti pendidikan.",childcare-early-education.jpg
+Pendidikan Pra Sekolah,(SKM),edu,"Melatih guru prasekolah dalam pedagogi awal, aktiviti pembelajaran, dan pembangunan kanak-kanak.",preschool-classroom-kids.jpg
+Pendidikan Awal Kanak- Kanak,(SKM),edu,Memberi pengetahuan teori dan praktikal untuk mendidik serta menjaga kanak-kanak awal usia.,early-childhood-education-kids.jpg
+Elderly Care,(SKM),health,"Melatih pelajar dalam penjagaan warga emas termasuk kesihatan fizikal, emosi, dan sokongan harian.",elderly-care-nursing-home.jpeg
+Pengurusan Pejabat Sistem Maklumat,(SKM/DKM),it,"Mengurus sistem maklumat, aplikasi pejabat, dan automasi kerja pejabat.",information-system-office-management.webp
+IT,(SKM/DKM),it,"Memberi asas teknologi maklumat termasuk perisian, perkakasan, dan rangkaian komputer.",information-technology-coding.avif
+Perkhidmatan Rangkaian Komputer,(SKM/DKM),it,"Fokus pada pemasangan, penyelenggaraan, dan keselamatan rangkaian komputer.",computer-networking-cables.jpg
+Pentadbiran Rangkaian Komputer,(DKM),it,"Memberi kemahiran dalam konfigurasi, pengurusan server, dan troubleshooting rangkaian.",network-administrator-server.avif
+Digital Graphic Design,(SKM/DKM),it,Melatih pelajar menghasilkan rekaan grafik digital menggunakan perisian kreatif.,graphic-design-digital-artwork.jpg
+Creative Multimedia Designer,(SKM/DKM),it,"Fokus pada multimedia interaktif seperti animasi, audio, dan video.",multimedia-designer-creative.jpg
+Digital Media,(SKM/DKM),it,"Melibatkan penghasilan kandungan digital untuk pemasaran, sosial media, dan komunikasi visual.",digital-media-content-creator.webp
+Reka Bentuk Multimedia Interaktif,(SKM),it,"Latihan dalam rekaan aplikasi interaktif, animasi, dan UI/UX.",interactive-multimedia-design.webp
+Animasi,(DKM),it,"Fokus pada pembuatan animasi 2D & 3D untuk hiburan, pendidikan, dan industri.",animation-character-design.jpeg
+Sinematografi,(DKM),it,"Memberi kemahiran dalam seni penggambaran video, pengeditan, dan produksi filem.",cinematography-film-making.jpg
+Automotif,(SKM/DKM),tech,"Latihan dalam penyelenggaraan, pembaikan, dan teknologi kenderaan bermotor.",automotive-car-workshop.png
+Elektrik,(SKM/DKM),tech,"Memberi asas pemasangan, kawalan, dan penyelenggaraan sistem elektrik.",electrician-wiring.jpg
+Kimpalan,(SKM/DKM),tech,Melatih teknik kimpalan moden untuk industri pembinaan dan pembuatan logam.,welding-worker-sparks.jpg
+Mekatronik,(SKM/DKM),tech,"Gabungan mekanikal, elektronik, dan automasi industri.",mechatronics-robotics-engineering.jpg
+Sistem Komputer,(SKM/DKM),tech,"Fokus pada pemasangan, konfigurasi, dan penyelenggaraan perkakasan komputer.",computer-system-hardware.jpg
+Aircond,(SKM),tech,"Latihan pemasangan, penyelenggaraan, dan pembaikan penghawa dingin.",air-conditioning-technician-repair.webp
+"Pemasangan, Pembaikpulihan dan Penyelenggaraan Peralatan Elektronik",(SKM/DKM),tech,Fokus pada pembaikan elektronik rumah dan industri.,electronics-repair-technician.jpg
+Pengurusan Pelancongan,(DKM),tourism,"Memberi kemahiran dalam merancang, mengurus, dan mempromosi aktiviti pelancongan.",tourism-management-travel.jpg
+Pemandu Pelancong,(SKM),tourism,"Melatih dalam komunikasi, pemanduan lawatan, dan pengurusan pelancong.",tour-guide-with-tourists.jpg
+Pelukis Pelan Seni Bina,(SKM),tourism,Fokus pada penghasilan lukisan teknikal & pelan bangunan.,architectural-drafter-blueprint.jpg
+Pentadbiran Teknikal Senibina,(DKM),tourism,Memberi asas dalam penyediaan dokumen teknikal dan pengurusan projek seni bina.,architectural-technical-office.jpg
